@@ -4,6 +4,8 @@ This repository is for the education inequality project. It will compare socioec
 # Description
 The exported data sets were used in a basic train-test model to analyze if socioeconomic factors can be used as predictors of high school average ACT scores, and if so to what extent. Ultimately, numerical demographic and income data can be used to predict ACT score within about a point and a half, with a dropoff in prediction accuracy for higher average scores. Unemployment rate may be the strongest predictor of average ACT score.
 
+A Google Slides presentation containing a summary of the steps in this project may be found here: https://github.com/gsheara/Education-Inequality/blob/656eb6df85471d92fa0368e09bcb65d1fa97ff23/Communicate%20the%20Results.pdf 
+
 # Requirements
 This project utilizes the CSV files included in this GitHub repository, Google Colab as a Python IDE, and a few common Python libraries for math and data visualization (pandas, numpy, matplotlib, scikitlearn, and Altair-vega).
 
