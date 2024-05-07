@@ -19,7 +19,7 @@ The data for this project was prepared by filtering out extraneous columns, sett
 
 The notebook for data preparation can be found here: https://github.com/gsheara/Education-Inequality/blob/544855bf5d894b3e4ab6264a956501df9b2274de/Data_Preparation.ipynb
 
-The notebook for data analysis can be found here: https://github.com/gsheara/Education-Inequality/blob/a6ff72f690d1370a18c52f1bfbb78e415cc7589e/Education_Analysis.ipynb 
+The notebook for data analysis can be found here: https://github.com/gsheara/Education-Inequality/blob/730675bed0cbf6ba3a91031ac5e97a268e997b95/Education_Analysis.ipynb
 
 This data prep phase produced four clean datasets, a train and test for the numerical and categorical data. The categorical data is used to answer the question proposed in the additional step and focuses solely on school type. The CSVs for these datasets can be found here:
 
